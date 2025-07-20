@@ -8,7 +8,6 @@ Dedicated to fostering security awareness and protecting digital environments th
 I am a passionate and detail-oriented cybersecurity professional with a strong foundation in security principles and practices. My journey into this field is driven by a fascination with threat detection, a commitment to user security training, and an insatiable appetite for continuous learning. I am currently seeking a challenging role as a Cybersecurity Analyst or an entry-level Security Operations position where I can apply my skills to safeguard organizational assets and contribute to a robust security posture.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
