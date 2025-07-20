@@ -1,14 +1,11 @@
 # Hello, I am Charles
 <a href="https://www.linkedin.com/in/charles-orakpo/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+Dedicated to fostering security awareness and protecting digital environments through continuous, hands-on learning and proactive threat mitigation.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+I am a passionate and detail-oriented cybersecurity professional with a strong foundation in security principles and practices. My journey into this field is driven by a fascination with threat detection, a commitment to user security training, and an insatiable appetite for continuous learning. I am currently seeking a challenging role as a Cybersecurity Analyst or an entry-level Security Operations position where I can apply my skills to safeguard organizational assets and contribute to a robust security posture.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
