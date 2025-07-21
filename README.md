@@ -11,7 +11,7 @@ I am a passionate and detail-oriented cybersecurity professional with a strong f
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Identity and Access management (IAM)          | <a href="https://www.theforage.com/simulations/tata/cybersecurity-sbda">Tata Simulation Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
